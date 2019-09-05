@@ -3,6 +3,13 @@ name = "uset"
 version = "0.1.0"
 authors = ["Maciej Gorywoda <makingthematrix@gmail.com>"]
 edition="2018"
+homepage="https://github.com/makingthematrix/uset"
+repository="https://github.com/makingthematrix/uset"
+readme="./README.md"
+license="MIT"
+keywords=["set", "map", "ECS", "collections"]
+categories=["algorithms", "data-structures", "game-engines"]
+description="An implementation of a set and a map designed for speed, with unsigned integers as keys."
 
 [profile.bench]
 debug=true
